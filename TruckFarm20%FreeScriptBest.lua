@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:kick("Ajarin Dong puh sepuh")
+game.Players.LocalPlayer:kick("Lagi Baikin Bug")
